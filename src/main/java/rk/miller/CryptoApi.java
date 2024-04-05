@@ -105,5 +105,5 @@ class Product {
     private Date productionDate = new Date();
     private String tnvedCode = "string";
     private String uitCode = "string";
-    private String uituCode;
+    private String uituCode = "string";
 }
